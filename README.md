@@ -6,14 +6,15 @@ o	How many votes were cast in this congressional election?
   1)Total votes are 369,711
 o	Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
   1)Each county result is below:
-
+![This is an image](https://github.com/Jrobinson3/Election_Results_Challenge/blob/main/county%20results.PNG)
 o	Which county had the largest number of votes? 
  1)Denver
 o	Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
  1)Each candidate result is below:
-	
+![This is an image](https://github.com/Jrobinson3/Election_Results_Challenge/blob/main/candidate%20results.PNG)
 o	Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
  1)Winner is Diana Degette, total vote count is 272,892, and her percentage of the total votes is 73.8%. 
+ ![This is an image](https://github.com/Jrobinson3/Election_Results_Challenge/blob/main/Election%20Results.PNG)
 3.	Election-Audit Summary: In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
 This script can be used with some modifications for any upcoming election. 
  1) Change the csv file name in this script if it is different from “election_results.csv. 
